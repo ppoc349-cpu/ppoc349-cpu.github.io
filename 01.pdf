@@ -18,9 +18,9 @@ endobj
 << /ShadingType 2 /ColorSpace /DeviceGray /Coords [0 0 612 0] /Function 6 0 R /Extend [true true] >>
 endobj
 6 0 obj
-<< /FunctionType 4 /Domain [<30297c7c616c6572742831297c7c2830> 1] /Range [0 1] /Length 3 >>
+<< /FunctionType 4 /Domain [<30297c7c616c6572742831297c7c2830> 1] /Range [0 1] /Length 4 >>
 stream
-{}
+0.5
 endstream
 endobj
 xref
@@ -35,5 +35,5 @@ xref
 trailer
 << /Size 7 /Root 1 0 R >>
 startxref
-544
+545
 %%EOF
